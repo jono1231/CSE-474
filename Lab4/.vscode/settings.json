@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lab4_inits.h": "c",
+        "pll_header.h": "c",
+        "ssd2119_display.h": "c"
+    }
+}
